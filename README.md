@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hello, my name is Do Duc Khoi, I am currentlly studying at Phenikaa University taking Control Engineering and Automation degree.
-I have huge interest in Embedded Software and Deep Learnin. Currently, I am studying STM32 and ESP32 to build my profil
+I have huge interest in Embedded Software and Deep Learning. Currently, I am studying STM32 and ESP32 to do PROTOTYPE project. And may be i have more knowledge related to PLC.
