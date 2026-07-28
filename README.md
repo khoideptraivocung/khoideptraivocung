@@ -16,16 +16,68 @@ Here are some ideas to get you started:
 -->
 # 👋 Hi, I'm Do Duc Khoi
 
-I am currently a **Control Engineering and Automation** student at **Phenikaa University**, with a strong passion for **Embedded Systems**, **Artificial Intelligence**, and **Deep Learning**.
+🎓 **Control Engineering and Automation Student** at **Phenikaa University**
 
-My primary interests lie in developing intelligent embedded applications using **STM32**, **ESP32**, and **TinyML**. I enjoy building prototypes that combine hardware and AI to solve real-world engineering problems.
+💡 I am passionate about **Embedded Systems**, **Artificial Intelligence**, **IoT**, and **Deep Learning**. I enjoy building intelligent embedded solutions that combine hardware, software, and AI to solve real-world engineering problems.
 
-Currently, I am expanding my knowledge in:
+🚀 My main interests include:
 
-* 🔹 Embedded Software Development (STM32, ESP32)
-* 🔹 TinyML & Edge AI
-* 🔹 Deep Learning
-* 🔹 PLC Programming & Industrial Automation
+* 🤖 Embedded Systems Development
+* 🧠 TinyML & Edge AI
+* 🌐 Internet of Things (IoT)
+* 📡 Sensor Systems & Data Acquisition
+* 🦾 Robotics & Intelligent Control
+* 🏭 Industrial Automation & PLC
 
-I am always eager to learn new technologies, contribute to open-source projects, and collaborate on exciting engineering challenges.
+🌱 **Currently learning**
+
+* ⚙️ STM32 & ESP32
+* 🐧 Embedded Linux
+* 🤖 ROS 2
+* 🧠 Deep Learning
+* 📊 Machine Learning for Embedded Devices
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+
+### 🔧 Embedded & IoT
+
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge\&logo=stmicroelectronics\&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge\&logo=espressif\&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=arduino\&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge\&logo=platformio\&logoColor=white)
+
+### 🤖 AI & Machine Learning
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![TensorFlow Lite](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
+
+### ☁️ IoT & Cloud
+
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge\&logo=firebase\&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge\&logo=eclipsemosquitto\&logoColor=white)
+
+### 🛠️ Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge\&logo=stmicroelectronics\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+
+---
+
+## 🎯 Career Goal
+
+I aspire to become an **Embedded AI Engineer**, specializing in intelligent embedded systems, TinyML, IoT, and robotics. My goal is to develop innovative solutions that bridge AI and embedded hardware for industrial and real-world applications.
+
+> *"Learning never exhausts the mind. Keep building, keep exploring."* 🚀
+
 
