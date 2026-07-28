@@ -26,16 +26,14 @@ Here are some ideas to get you started:
 * 🧠 TinyML & Edge AI
 * 🌐 Internet of Things (IoT)
 * 📡 Sensor Systems & Data Acquisition
-* 🦾 Robotics & Intelligent Control
 * 🏭 Industrial Automation & PLC
 
 🌱 **Currently learning**
 
 * ⚙️ STM32 & ESP32
-* 🐧 Embedded Linux
-* 🤖 ROS 2
 * 🧠 Deep Learning
 * 📊 Machine Learning for Embedded Devices
+* PLC for industrial
 
 ---
 
